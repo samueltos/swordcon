@@ -4,3 +4,7 @@
 @import "~bootswatch/dist/yeti/_bootswatch.scss";
 $fa-font-path: '../node_modules/font-awesome/fonts';
 @import '~font-awesome/scss/font-awesome';
+
+body{
+    background: darkgrey;
+}
