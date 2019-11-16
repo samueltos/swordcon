@@ -6,9 +6,9 @@ $fa-font-path: '../node_modules/font-awesome/fonts';
 @import '~font-awesome/scss/font-awesome';
 
 body{
-    background-image: url(./assets/bg.jpg);
+    background-image: url(./assets/bgn.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: bottom;
+    background-position: center;
     height: 100vh;
 }
